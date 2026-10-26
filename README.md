@@ -10,7 +10,6 @@ A simple static website (plain HTML, CSS and images). No build step or coding to
 | `about.html` | About us |
 | `why-electrify.html` | Why go electric? (Rewiring Aotearoa report figures) |
 | `events.html` | Events |
-| `get-involved.html` | Get involved |
 | `contact.html` | Contact page and form |
 | `404.html` | Page shown if a link is broken |
 | `assets/css/styles.css` | All of the site's styling (colours, Rubik font, layout) |
